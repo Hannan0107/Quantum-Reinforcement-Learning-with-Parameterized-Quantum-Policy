@@ -44,6 +44,18 @@ Goal: Learn to always select the action with highest expected reward.
 ![Average Reward](images/average_reward.png)
 ![Action Probabilities](images/action_probabilities.png)
 
+# Installation & Running
+```
+pip install qulacs numpy matplotlib
 
+Open qrl_bandit.ipynb → Run all cells
+```
 
+## Technologies used
+- Qulacs (quantum circuit simulator)
+- Python
+- Parameterized Quantum Circuits (PQCs)
+- REINFORCE Policy Gradient Algorithm
+- Parameter-Shift Rule
+- Numpy, Matplotlib
 
