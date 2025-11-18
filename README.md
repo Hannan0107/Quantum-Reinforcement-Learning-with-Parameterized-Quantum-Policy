@@ -1,0 +1,2 @@
+# Quantum-Reinforcement-Learning-with-Parameterized-Quantum-Policy
+This project implements Quantum Reinforcement Learning (QRL) using a Parameterized Quantum Circuit (PQC) as the policy network, trained with REINFORCE and parameter-shift gradients. The agent interacts with a stochastic multi-armed bandit environment and learns to select the optimal action through quantum-classical hybrid learning.
