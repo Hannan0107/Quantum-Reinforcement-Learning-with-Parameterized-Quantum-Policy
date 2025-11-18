@@ -40,7 +40,7 @@ Goal: Learn to always select the action with highest expected reward.
 - Average reward converges to ~0.8 → matches optimal arm.
 - Learned action probability for action 2 approaches ~1.0.
 
-![Cumulative Reward](images/cumulative_reward.png)
+
 ![Average Reward](images/average_reward.png)
 ![Action Probabilities](images/action_probabilities.png)
 
